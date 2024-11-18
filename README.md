@@ -36,6 +36,5 @@ Follow the steps below to set up and run the app on your local machine.
    ```bash
    git clone https://github.com/yourusername/image-classification-app.git
    cd image-classification-app
-   ```bash
-    pip install -r requirements.txt
-    streamlit run app.py
+   pip install -r requirements.txt
+   streamlit run app.py
