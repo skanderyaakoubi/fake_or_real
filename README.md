@@ -32,7 +32,7 @@ Follow the steps below to set up and run the app on your local machine.
 
 ### **Installation**
 
-1. **Clone the Repository**:
+1. :
    ```bash
    git clone https://github.com/yourusername/image-classification-app.git
    cd image-classification-app
