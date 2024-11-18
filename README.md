@@ -8,7 +8,7 @@ Clone the Repository:
 
 # **Image Classification App**
 
-This repository contains a simple and interactive **image classification tool** built using **Streamlit** and a trained deep learning model. The app can classify images as `real` or `fake` with a confidence score.
+This repository contains a simple and interactive image classification tool built using Streamlit and a trained transfer learning model based on the VGG16 architecture. The app leverages pre-trained features from VGG16 to classify images as real or fake with a confidence score.
 
 ---
 
